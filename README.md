@@ -1,2 +1,2 @@
 # CODSOFT
-Task of Internship
+Tasks of Internship
